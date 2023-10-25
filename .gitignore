@@ -1,0 +1,8 @@
+# Ignore data csv files
+original_data
+
+# Ignore temporary/local files
+.RDataTmp
+.Rhistory
+Cyclistic Case Study.nb.html
+README.html
